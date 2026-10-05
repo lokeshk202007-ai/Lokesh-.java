@@ -5,3 +5,4 @@ Write a Java code for simple calculator
 Write a java code to find the sum and average of an array
 Write a java code for additing rows in matrix
 Write a java code by using 3 methods of a string
+Write a java code by splitting a sentence into word and then rebuilt it in new format.code for Fibonacci with recursion 
