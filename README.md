@@ -10,3 +10,4 @@ Write a java code to find the largest element in the array
 Write a java code for selection sort and insertion sort
 Write a java code for Counting vowels in string
 code for reversing an array in place
+code for 2nd largest element
